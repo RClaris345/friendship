@@ -1,0 +1,24 @@
+{
+  "name": "friendship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "friends.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RClaris345/friendship.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RClaris345/friendship/issues"
+  },
+  "homepage": "https://github.com/RClaris345/friendship#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
